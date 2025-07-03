@@ -2,7 +2,7 @@ import { Container, SimpleGrid, Text, VStack } from "@chakra-ui/react";
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { useProductStore } from "../store/product";
-import ProductCard from "../components/ProductCard";
+import ProductCard from "../component/ProductCard";
 
 const HomePage = () => {
 	const { fetchProducts, products } = useProductStore();
@@ -22,7 +22,7 @@ const HomePage = () => {
 					bgClip={"text"}
 					textAlign={"center"}
 				>
-					Current Products 
+					Current Products 🚀
 				</Text>
 
 				<SimpleGrid
