@@ -9,3 +9,4 @@ This is a MERN stack web application for a shopping site that allows owners to p
 - RESTful API with Express and Node.js
 - MongoDB for database management
 
+[![Watch the video](https://www.linkedin.com/posts/pragyavijay_fullstackdeveloper-mernstack-webdevelopment-activity-7291105146321649664-DXH9?utm_source=share&utm_medium=member_desktop&rcm=ACoAADb2VZ8BypVoULP34-kaIydrP4gJKvS3qbo)]
